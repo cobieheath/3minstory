@@ -23,9 +23,17 @@ Which way do you turn? [[Left]] or [[right]]?
 :: Left
 Out of the corner of your eye you see a twinkling light.
 
-It glows a pale yellow and almost calls you to it.
+It glows a pale yellow and you peek around a tree to find the source of the [[light]].
 
 :: right
 You hear rustling as you make your way down the path.
 
-You come into a clearing and find the source of the noise.
+You come into a clearing and find the source of the [[noise]].
+
+:: light
+Behind the tree you see a pixie.
+
+
+
+:: noise
+
