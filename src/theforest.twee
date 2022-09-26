@@ -1,10 +1,15 @@
 :: StoryData
 {
-    "ifid": "316D23B2-9770-4F5C-890F-BE979B94A06B",
+    "ifid": "6F86B3CE-FDBD-46FA-8E09-BAF0ADD4910F",
     "format": "SugarCube",
     "format-version": "2.36.1"
 }
 
 :: StoryTitle
 The Forest
+
 :: Start
+You're sitting in your bedroom...
+
+
+
