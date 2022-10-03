@@ -69,11 +69,41 @@ He understands your pain and asks if you want to stay with him.
 
 However, you cannot go back to your world.
 
-Do you [[stay]] in the forest? Or do you [[decline]] his offer and go back home?
+Do you [[stay|stay2]] in the forest? Or do you [[decline|decline2]] his offer and go back home?
 
 :: no
 He pulls out his bow and arrow and aims it at your chest.
 
 You manage to dodge out of the arrow's path and it sticks into the ground behind you.
 
-You [[run]] off towards the exit of the forest.
+You [[run|run2]] off towards the exit of the forest.
+
+:: stay 
+She sprinkles her pixie dust on you and you shrink down to the size of a dime.
+
+Your wings shine and your skin glows.
+
+You feel at peace knowing you never have to go back to that awful world.
+
+You are free.
+
+:: decline
+You tell the fairy how grateful you are for her offer, but you cannot abandon your friends and family.
+
+You walk back towards the entrance of the forest.
+
+:: run
+You run through the forest as fast as you can.
+
+The switches on the trees cut up your face and the thorns in the bushes scrape your legs.
+
+You see the light of the forest entrance. You are almost home.
+
+However, you stop suddenly as you see something blocking your path.
+
+:: stay2
+
+:: decline2
+
+:: run2
+
