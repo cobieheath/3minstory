@@ -38,7 +38,7 @@ She beckons you toward her.
 Is she [[friendly]]? Or does she mean [[harm]] to you?
 
 :: noise
-In the clearing you find a Centaur.
+In the clearing you find a centaur.
 
 He waves you to come toward him?
 
@@ -56,9 +56,16 @@ However, you can never see your family or friends again.
 Do you stay in the forest? Or do you decline her offer and go back home?
 
 :: harm
+She flies towards you and starts to attack your face.
 
+You manage to get ahold of her wings and throw her to the ground.
+
+You run off towards the exit of the forest.
 
 :: trust
+You talk with the centaur tell him that your world doesn't accept you for who you are.
+
+He 
 
 :: no
 
