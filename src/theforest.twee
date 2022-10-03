@@ -35,11 +35,30 @@ Behind the tree you see a pixie.
 
 She beckons you toward her.
 
-Is she friendly? Or does she mean harm to you?
+Is she [[friendly]]? Or does she mean [[harm]] to you?
 
 :: noise
 In the clearing you find a Centaur.
 
 He waves you to come toward him?
 
-Can you trust him? Or no?
+Can you [[trust]] him? Or [[no]]?
+
+:: friendly
+You talk with the pixie and tell her that your world doesn't accept you for who you are.
+
+She sympathizes with you and offers you a home with her.
+
+You can become a pixie and live out the rest of your days in the forest.
+
+However, you can never see your family or friends again.
+
+Do you stay in the forest? Or do you decline her offer and go back home?
+
+:: harm
+
+
+:: trust
+
+:: no
+
