@@ -9,3 +9,20 @@ a {
     color: rgb(28, 211, 168);
 }
 
+#menu-item-saves {
+
+    display: none;
+}
+
+#ui-bar-toggle {
+display: none;
+}
+
+body {
+    background-color: rgb(36, 56, 42);
+}
+
+#ui-bar {
+    background-color: rgb(36, 56, 42);
+    border-right: 2px solid #FFF
+}
