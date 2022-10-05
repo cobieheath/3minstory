@@ -26,3 +26,7 @@ body {
     background-color: rgb(36, 56, 42);
     border-right: 2px solid #FFF
 }
+
+img {
+    height: 600px;
+}
