@@ -8,6 +8,9 @@
 :: StoryTitle
 The Forest
 
+:: StoryInit
+<<set $sword to false>>
+
 :: Start
 You're sitting in your bedroom, staring out the window, wondering why you feel so //alone// and //scared// and //angry//.
 
@@ -18,7 +21,17 @@ You need to [[get out]]...
 :: get out
 You go to the forest behind your house and decide to take a walk to clear your head of the racing thoughts.
 
+You see a rusty sword laying on the ground. Should you [[grab it]] just in case?
+
 Which way do you turn? [[Left]] or [[right]]?
+
+:: grab it
+<<set $sword to true>>
+The sword seems ancient.
+
+It has a good amount of weight and an intricate handle.
+
+You carry it by your side and continue on.
 
 :: Left
 Out of the corner of your eye you see a twinkling light.
@@ -90,7 +103,7 @@ You are free.
 :: decline
 You tell the fairy how grateful you are for her offer, but you cannot abandon your friends and family.
 
-You walk back towards the entrance of the forest.
+You [[walk]] back towards the entrance of the forest.
 
 :: run
 You run through the forest as fast as you can.
@@ -113,7 +126,7 @@ You are free.
 :: decline2
 You tell the centaur how grateful you are for his offer, but you cannot abandon your life.
 
-You walk back towards the entrance of the forest.
+You [[walk|walk2]] back towards the entrance of the forest.
 
 :: run2
 You run through the forest as fast as you can.
@@ -123,3 +136,21 @@ You twist your ankle while jumping over a log and cut your arm open on a tree br
 You see the light of the forest entrance. You are almost home.
 
 However, you stop suddenly as you see something blocking your path.
+
+:: walk 
+As you walk back towards your house, you think about the pixie's offer.
+
+It was nice of her to offer you a new life, but you have to go back.
+
+You have to face the judgement of your peers and life your life.
+
+However, you suddenly notice something blocking way out of the forest.
+
+:: walk2
+As you walk back towards your house, you think about the centaur's offer.
+
+It was nice of him to offer you a new life, but you have to go back.
+
+You have to face the judgement of your peers and life your life.
+
+However, you suddenly notice something blocking way out of the forest.
