@@ -164,7 +164,7 @@ You have to face the judgement of your peers and life your life.
 
 However, you suddenly notice [[something]] blocking your way out of the forest.
 
-:: snake
+:: something
 You find a basilisk coiled up at the entrance to the forest.
 
 It stares at you and makes a hissing sound. It looks like it's about to strike.
@@ -180,7 +180,7 @@ In an instant, you remember the dagger you found and plunge it upwards and into 
 He goes limp and falls to the ground, leaving a pool of teal blood.
 
 You catch your breath and calm your nerves before warrily continuing out of the forest.
-
+<</if>>
 <<if $sword is false>>
 The basilisk lunges at you with his deadly jaws open.
 
@@ -190,4 +190,7 @@ He locks his jaws on your side and you scream out, hoping someone or something w
 
 As you continue to lay there, you start to feel cold.
 
-Right before you blackout, 
+Right before you blackout, you think about how cruel the world is. How hateful and mean the world is.
+
+Maybe dying isn't so bad after all.
+<</if>>
