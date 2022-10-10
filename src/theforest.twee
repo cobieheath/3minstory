@@ -23,17 +23,19 @@ You need to [[get out]]...
 :: get out
 You go to the forest behind your house and decide to take a walk to clear your head of the racing thoughts.
 
-You see a rusty sword laying on the ground. Should you [[grab it]] just in case?
+You see a small dagger stabbed into the ground. Should you [[grab it]] just in case?
 
 Which way do you turn? [[Left]] or [[right]]?
 
 :: grab it
 <<set $sword to true>>
-The sword seems ancient.
+The dagger seems old.
 
 It has a good amount of weight and an intricate handle.
 
 You carry it by your side and continue on.
+
+[img[sword in grass.jpg]] <!-- https://pxhere.com/en/photo/451008?utm_content=shareClip&utm_medium=referral&utm_source=pxhere -->
 
 :: Left
 Out of the corner of your eye you see a twinkling light.
