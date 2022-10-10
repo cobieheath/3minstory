@@ -27,13 +27,18 @@ You see a small dagger stabbed into the ground. Should you [[grab it]] just in c
 
 Which way do you turn? [[Left]] or [[right]]?
 
+:: get out2
+You go to the forest behind your house and decide to take a walk to clear your head of the racing thoughts.
+
+Which way do you turn? [[Left]] or [[right]]?
+
 :: grab it
 <<set $sword to true>>
 The dagger seems old.
 
 It has a good amount of weight and an intricate handle.
 
-You carry it by your side and [[continue on|get out]].
+You carry it by your side and [[continue on|get out2]].
 
 [img[swordingrass.jpg]] <!-- https://pxhere.com/en/photo/451008?utm_content=shareClip&utm_medium=referral&utm_source=pxhere -->
 
