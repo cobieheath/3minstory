@@ -169,7 +169,9 @@ You find a basilisk coiled up at the entrance to the forest.
 
 It stares at you and makes a hissing sound. It looks like it's about to strike.
 
-What do you do? Do you [[fight it]]? Or do you try and [[slip past it]]?
+What do you do? 
+
+There's only one thing to do: [[fight it]].
 
 :: fight it
 <<if $sword is true>>
@@ -179,7 +181,7 @@ In an instant, you remember the dagger you found and plunge it upwards and into 
 
 He goes limp and falls to the ground, leaving a pool of teal blood.
 
-You catch your breath and calm your nerves before warrily continuing out of the forest.
+You catch your breath and calm your nerves before warrily [[continuing out of the forest]].
 <</if>>
 <<if $sword is false>>
 The basilisk lunges at you with his deadly jaws open.
@@ -194,3 +196,10 @@ Right before you blackout, you think about how cruel the world is. How hateful a
 
 Maybe dying isn't so bad after all.
 <</if>>
+
+:: continuing out of the forest
+As you walk back home, you think about everything you've experienced in The Forest.
+
+Will you ever be happy? Accepted? Loved?
+
+That's up to you.
