@@ -121,7 +121,7 @@ The switches on the trees cut up your face and the thorns in the bushes scrape y
 
 You see the light of the forest entrance. You are almost home.
 
-However, you stop suddenly as you see something blocking your path.
+However, you stop suddenly as you see [[something]] blocking your path.
 
 :: stay2
 He takes you back to his commune and introduces you to his herd.
@@ -144,7 +144,7 @@ You twist your ankle while jumping over a log and cut your arm open on a tree br
 
 You see the light of the forest entrance. You are almost home.
 
-However, you stop suddenly as you see something blocking your path.
+However, you stop suddenly as you see [[something]] blocking your path.
 
 :: walk 
 As you walk back towards your house, you think about the pixie's offer.
@@ -153,7 +153,7 @@ It was nice of her to offer you a new life, but you have to go back.
 
 You have to face the judgement of your peers and life your life.
 
-However, you suddenly notice something blocking way out of the forest.
+However, you suddenly notice [[something]] blocking your way out of the forest.
 
 :: walk2
 As you walk back towards your house, you think about the centaur's offer.
@@ -162,4 +162,32 @@ It was nice of him to offer you a new life, but you have to go back.
 
 You have to face the judgement of your peers and life your life.
 
-However, you suddenly notice something blocking way out of the forest.
+However, you suddenly notice [[something]] blocking your way out of the forest.
+
+:: snake
+You find a basilisk coiled up at the entrance to the forest.
+
+It stares at you and makes a hissing sound. It looks like it's about to strike.
+
+What do you do? Do you [[fight it]]? Or do you try and [[slip past it]]?
+
+:: fight it
+<<if $sword is true>>
+The basilisk lunges at you with his deadly jaws open.
+
+In an instant, you remember the dagger you found and plunge it upwards and into his mouth.
+
+He goes limp and falls to the ground, leaving a pool of teal blood.
+
+You catch your breath and calm your nerves before warrily continuing out of the forest.
+
+<<if $sword is false>>
+The basilisk lunges at you with his deadly jaws open.
+
+You attempt to dodge out of the way, but he matches your moves.
+
+He locks his jaws on your side and you scream out, hoping someone or something would come to your rescue.
+
+As you continue to lay there, you start to feel cold.
+
+Right before you blackout, 
